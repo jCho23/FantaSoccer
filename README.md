@@ -1,14 +1,14 @@
 # FantaSoccer
 Automation Test Script for Fanta Soccer
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
